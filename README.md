@@ -7,6 +7,7 @@ js 알고리즘 학습내역을 기록합니다.
 + [김서방찾기](./level1/김서방찾기.js)
 + [문자열내 p와 y의 개수](./level1/문자열내p와y의개수.js)
 + [삼각형 출력하기](./level1/삼각형출력하기.js)
++ [문자열 다루기 기본](./level1/문자열다루기기본.js)
 + [addMatrix](./level1/addMatrix.js)
 + [arrayAverage](./level1/arrayAverage.js)
 
