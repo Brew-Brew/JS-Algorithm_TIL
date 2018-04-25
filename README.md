@@ -10,6 +10,7 @@ js 알고리즘 학습내역을 기록합니다.
 + [역삼각형 출력하기](./level1/역삼각형출력하기.js)
 + [문자열 다루기 기본](./level1/문자열다루기기본.js)
 + [정수 제곱근 판별하기](./level1/정수제곱근판별하기.js)
++ [짝수와 홀수](./level1/짝수와홀수.js)
 + [addMatrix](./level1/addMatrix.js)
 + [arrayAverage](./level1/arrayAverage.js)
 
