@@ -21,6 +21,7 @@ js 알고리즘 학습내역을 기록합니다.
 + [arrayAverage](./level1/arrayAverage.js)
 
 #### level2
++ [2016](./level2/2016.js)
 + [collatz 추측](./level2/collatz추측.js)
 + [최소값 만들기](./level2/최소값만들기.js)
 + [하샤드 수](./level2/하샤드수.js)
