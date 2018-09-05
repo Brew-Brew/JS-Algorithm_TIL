@@ -29,6 +29,7 @@ js 알고리즘 학습내역을 기록합니다.
 - [핸드폰 번호 가리기](./level1/핸드폰번호가리기.js)
 - [addMatrix](./level1/addMatrix.js)
 - [arrayAverage](./level1/arrayAverage.js)
+- [x만큼 n 간격있는숫자](./level1/x만큼n간격있는숫자.js)
 
 #### level2
 
