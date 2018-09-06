@@ -29,12 +29,13 @@ js 알고리즘 학습내역을 기록합니다.
 - [핸드폰 번호 가리기](./level1/핸드폰번호가리기.js)
 - [addMatrix](./level1/addMatrix.js)
 - [arrayAverage](./level1/arrayAverage.js)
-- [x만큼 n 간격있는숫자](./level1/x만큼n간격있는숫자.js)
+- [x 만큼 n 간격있는숫자](./level1/x만큼n간격있는숫자.js)
 
 #### level2
 
 - [2016](./level2/2016.js)
 - [collatz 추측](./level2/collatz추측.js)
+- [최대값과 최소값 찾기](./levle2/최대값과최소값.js)
 - [최소값 만들기](./level2/최소값만들기.js)
 - [하샤드 수](./level2/하샤드수.js)
 - [공항건설](./level2/공항건설.js)
