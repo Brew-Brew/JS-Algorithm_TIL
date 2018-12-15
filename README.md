@@ -32,6 +32,7 @@ js 알고리즘 학습내역을 기록합니다.
 - [addMatrix](./level1/addMatrix.js)
 - [arrayAverage](./level1/arrayAverage.js)
 - [x 만큼 n 간격있는숫자](./level1/x만큼n간격있는숫자.js)
+- [자연수 뒤집어 배열로 만들기](./level1/자연수뒤집어배열로만들기.js)
 
 #### level2
 
